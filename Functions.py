@@ -26,7 +26,6 @@ def init():
         print("You have entered an invalid option.")
         init()
 
-
 def signIn():
 
     print("Sign in to your ZuriBank account")
